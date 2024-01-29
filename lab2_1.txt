@@ -1,0 +1,1 @@
+Today is the second day for learning git commands in the software engineering lab. 
